@@ -5,7 +5,7 @@ inteiros N e M (1 ≤ N, M ≤ 100). As próximas N linhas contém M inteiros ca
 separados por espaços, descrevendo os pães de queijo no tabuleiro. O j-ésimo
 inteiro da i-ésima linha é 1 se existe um pão de queijo na linha i e coluna j
 do tabuleiro, ou 0 caso contrário.
-A entrada termina com fim-de-arquivo (EOF).
+A entrada termina com fim-de-arquivo (EOF)..
 */
 
 int main()
